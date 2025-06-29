@@ -39,6 +39,9 @@ nano .env  # isi API key Groq (kalau pakai AI)
 
 # Cara menjalankan
 python3 main.py
+```\bash
+
+---
 
 ❗ Catatan
 Jangan upload .env ke publik

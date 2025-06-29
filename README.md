@@ -39,3 +39,12 @@ nano .env  # isi API key Groq (kalau pakai AI)
 
 # Cara menjalankan
 python3 main.py
+
+❗ Catatan
+Jangan upload .env ke publik
+
+Selalu gunakan OSINTax secara etis dan legal
+
+Bisa dikembangkan ke mode GUI atau Flask Web App
+
+

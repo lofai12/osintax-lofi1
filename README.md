@@ -79,6 +79,7 @@ osintax-lofi1/
 
 ## ⚠️ Catatan Penting
 
+- 😀 Jika ingin menggunakan **ai** lu harus isi api key milik sendiri
 - ✅ Gunakan OSINTax hanya untuk hal-hal **etis dan legal**
 - 🧱 Modul mudah dikembangkan — lu bisa nambahin:
   - subdomain_enum.py
@@ -98,3 +99,5 @@ _"Hacking is not about breaking. It's about understanding."_ — Unknown
 
 Kalau lu suka project ini, kasih ⭐ dong  
 Mau bantu? Fork → upgrade → Pull Request, kita bangun bareng OSINTax jadi tool OSINT terbaik di GitHub 💪
+
+## Lofi 30/6/2025
